@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3reactawsstorage2a8906c1",
+  "bucketName": "reactaws-storage-2a8906c1",
+  "policyUUID": "a0791681",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
