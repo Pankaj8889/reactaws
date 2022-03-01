@@ -1,3 +1,4 @@
+import React  from 'react';
 import { NavBar, HeroLayout2, Features2x3, MarketingFooter } from './ui-components';
 
 function App() {
